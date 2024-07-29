@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [https://portfoliobysowjanya23.vercel.app/](https://portfoliobysowjanya23.vercel.app/)
 
-- 💬 Ask me about **Java, Python**
+- 💬 Ask me about **Java, Python, DSA, SQL, HTML, CSS, JavaScript**
 
 - 📫 How to reach me **sowjanyavangari23@gmail.com**
 
